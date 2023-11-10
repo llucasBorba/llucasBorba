@@ -3,8 +3,20 @@
 Hey there! 👋 I'm Lucas, a passionate technology enthusiast and software development professional based in Brasília, Brazil. I thrive on challenges and am constantly seeking opportunities to grow in the programming field.
 
 
-
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 ## :books: I'm currently learning:
