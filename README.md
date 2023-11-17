@@ -37,8 +37,8 @@ Hey there! 👋 I'm Lucas, a passionate technology enthusiast and software devel
 :speech_balloon: You can contact me through my [Instagram](https://www.instagram.com/llucas.borba) or [Email](lucasborba6075@gmail.com), and you're welcome to check out my projects available in my repositories.
 
 <div align="center">
-   <a href="https://www.instagram.com/igormax7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/igor-max-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.instagram.com/llucas.borba/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-borba-106a5423a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@igormaxnunes"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 
